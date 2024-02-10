@@ -1,0 +1,9 @@
+.counter{
+    border-radius: 50%;
+    background-color: red;
+    color: white;
+    width:10px;
+    height:10px;
+    font-size: 7px;
+    font-weight: bold;
+}

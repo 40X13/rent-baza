@@ -1,0 +1,13 @@
+.navigation{
+    display: flex;
+    color: red;
+}
+
+.navigation a{
+    margin-left: 10px;
+}
+
+.navigation svg{
+    font-size: 20px;
+}
+
